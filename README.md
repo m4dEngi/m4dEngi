@@ -1,10 +1,6 @@
 # m4dEngi
 
----
-
 > "Abandon all hope, ye who enter here."
-
----
 
 ## the basics
 
@@ -14,7 +10,6 @@
 - 📍 somewhere local, doing local nothing things
 - ⚡ I probably won't respond to your messages quickly (or at all)
 
----
 
 ## tech stack
 
@@ -26,14 +21,12 @@
 
 *the list will grow if I stick with this*
 
----
 
 ## now
 
 - 💤 taking it easy
 - 🕳️ not looking for collaboration
 
----
 
 ## stats
 
@@ -41,7 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=m4dEngi&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
----
 
 ## projects
 
@@ -49,13 +41,11 @@ nothing worth showcasing yet.
 
 check the repos if you want to see works in progress or abandoned experiments.
 
----
 
 ## contact
 
 don't.
 
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=m4dEngi&color=grey&style=flat-square&label=views" alt="Profile Views" />
