@@ -42,10 +42,6 @@ nothing worth showcasing yet.
 check the repos if you want to see works in progress or abandoned experiments.
 
 
-## contact
-
-don't.
-
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=m4dEngi&color=grey&style=flat-square&label=views" alt="Profile Views" />
